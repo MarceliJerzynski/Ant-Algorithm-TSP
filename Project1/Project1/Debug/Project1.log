@@ -1,0 +1,4 @@
+﻿  Project1.cpp
+c:\users\marceli\documents\studia\ok\project1\project1\project1.cpp(2): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+c:\users\marceli\documents\studia\ok\project1\project1\project1.cpp(6): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Project1.vcxproj -> C:\Users\Marceli\Documents\Studia\OK\Project1\Debug\Project1.exe
